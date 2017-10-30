@@ -1,0 +1,12 @@
+LOG INFO 1509363956762 Notification{username='jacek', email='jacek@email.pl', telephone='3784837443', content='Specjalna oferta!!!'}
+LOG INFO 1509364041324 Notification{username='jacek', email='pljacek@onet.pl', telephone='3772388923', content='pralka!'}
+LOG INFO 1509364041324 Notification{username='tomek', email='romek@onet.pl', telephone='388293223', content='Lodowka jest twoja!'}
+LOG INFO 1509365189816 Notification{username='jan', email='jan@kowalski.pl', telephone='12345678', content='Cześć mam dla Ciebie super ofertę'}
+LOG INFO 1509365189816 Notification{username='kasia', email='kasia@kowalska.pl', telephone='2343454564', content='Nowa pralka już czeka'}
+LOG INFO 1509365212803 Notification{username='jan', email='jan@kowalski.pl', telephone='12345678', content='Cześć mam dla Ciebie super ofertę'}
+LOG INFO 1509365212818 Notification{username='kasia', email='kasia@kowalska.pl', telephone='2343454564', content='Nowa pralka już czeka'}
+LOG INFO 1509365340900 Notification{username='jan', email='jan@kowalski.pl', telephone='12345678', content='Cześć mam dla Ciebie super ofertę'}
+LOG INFO 1509365340900 Notification{username='kasia', email='kasia@kowalska.pl', telephone='2343454564', content='Nowa pralka już czeka'}
+LOG INFO 1509365461094 Notification{username='tomek', email='tomek@wp.pl', telephone='4983894', content='Hello, what's up?'}
+LOG INFO 1509365461094 Notification{username='marek', email='marek@inter.pl', telephone='28389239', content='who let the dogs out?'}
+LOG INFO 1509366740455 Notification{username='janek', email='', telephone='89393', content='djjdjd'}
